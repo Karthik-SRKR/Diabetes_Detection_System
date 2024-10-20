@@ -2,5 +2,4 @@
 ### Diabetes prediction model
 
 
-#### Deployment Link 
-https://diabetes-detection-system-wmbp.onrender.com
+#### Deployment Link -> https://diabetes-detection-system-wmbp.onrender.com
